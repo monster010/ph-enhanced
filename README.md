@@ -37,8 +37,6 @@ maintained anymore.
 
 ### Available Links & Public Server Tests
 
-*Currently; several main page for: PH:E official page, FAQ, support, and donation link is unavailable.*
-
 #### Available Servers
 - Soup Network: 103.193.80.135:28380
 - GFL Clan Server: 208.103.169.70:27030
@@ -47,12 +45,18 @@ maintained anymore.
 
 [**Workshop Version**](https://steamcommunity.com/sharedfiles/filedetails/?id=417565863)
 
+[**Main Website**](https://vinzuerio.bitbucket.io/phe)
+
+[**Wiki (Helps, FAQ, Adding Custom Sound, etc)**](https://vinzuerio.bitbucket.io/phe/faq)
+
 ## Required Addons
 * ULX Admin Mod. ( Workshop or Legacy Download: http://ulyssesmod.net/downloads.php )
 * (Optional) M9K/TFA Base. You can optionally subscribe the M9K weapon base if you wish to use custom weapon base for bonus weapon, otherwise will use from default sandbox weapon base.
 
 ## Donate
-Currently, The donation method can be done by using paypalme links: https://paypal.me/wolvindra ; Upon the website is running active again, this will turn back to main official donation page instead.
+Currently, The donation method can be done by using paypalme links: https://paypal.me/wolvindra or [use from this link](https://vinzuerio.bitbucket.io/phe/#donate).
+
+Once the website is running active again, this will turn back to main official donation page instead.
 
 ## Reporting an Issue
 
