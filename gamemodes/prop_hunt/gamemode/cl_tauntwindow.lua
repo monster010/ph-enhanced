@@ -148,7 +148,7 @@ local function MainFrame()
 					list:AddLine("<< WARNING: NO TAUNTS DETECTED! >>")
 				end
 			else
-				if PHE:GetTeamTaunt(TEAM_PROPS,true) != false then
+				if PHE:GetTeamTaunt(TEAM_HUNTERS,true) != false then
 					for name,val in pairs(PHE:GetTeamTaunt(TEAM_HUNTERS,true)) do
 						list:AddLine(name)
 					end
