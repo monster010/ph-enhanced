@@ -1,3 +1,6 @@
+##Project Status
+Development for PH:E is currently stopped or held on another hiatus state. There might be no other upcoming updates/patches or maybe discontinued. I'm sorry about that!
+
 # Wolvin's - Prop Hunt: ENHANCED v.15 Rev. I
 
 ![Prop Hunt: Enhanced Logo](https://i.ibb.co/7Yq3PhX/image.png "Prop Hunt: Enhanced v.15")
@@ -5,7 +8,7 @@
 ![Prop Hunt: Enhanced Cover](https://i.ibb.co/4PV3QSk/image.png "Prop Hunt: Enhanced v.15 New Main Menu")
 
 ## Base Information
-**Version: 15, Revision: I, Release Type: Public**
+**Version: 15, Revision: I, Release Type: Stopped/Hiatus**
 
 Updates to address some exploits and other things. [See Changelog here](https://steamcommunity.com/sharedfiles/filedetails/changelog/417565863) for details.
 
